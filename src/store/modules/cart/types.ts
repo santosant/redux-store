@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 export interface IProduct {
   id: number;
-  description: string;
+  title: string;
   price: number;
 }
 
